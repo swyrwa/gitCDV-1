@@ -1,6 +1,7 @@
 //Java language sample code
 
 /* HelloWorld.java
+Yeeeee!
  */
 
 public class HelloWorld
